@@ -1,0 +1,25 @@
+{
+    "name": "medinam/laravel-pluralize",
+    "description": "Clean way to write pluralize translations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Medina",
+            "email": "contact@devmedina.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Medinam\\LaravelPluralize\\": "src/",
+            "Tests\\": "tests/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
