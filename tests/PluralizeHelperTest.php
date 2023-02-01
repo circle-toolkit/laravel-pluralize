@@ -3,7 +3,7 @@
 namespace Tests;
 
 use PHPUnit\Framework\TestCase;
-use Medinam\LaravelPluralize\PluralizeHelper;
+use Lmedinam\LaravelPluralize\PluralizeHelper;
 
 final class PluralizeHelperTest extends TestCase
 {
