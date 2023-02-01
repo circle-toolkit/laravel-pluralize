@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Medinam\\LaravelPluralize\\": "src/",
+            "Medinam\\LaravelPluralize\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -24,6 +24,6 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
-        },
-    },
+        }
+    }
 }
