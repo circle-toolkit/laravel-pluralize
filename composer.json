@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Luis Medina",
-            "email": "contact@devmedina.com"
+            "email": "contacto@lmedinam.es"
         }
     ],
     "minimum-stability": "stable",
@@ -16,10 +16,14 @@
     "autoload": {
         "psr-4": {
             "Medinam\\LaravelPluralize\\": "src/",
-            "Tests\\": "tests/"
         },
         "files": [
             "src/helpers.php"
         ]
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        },
+    },
 }
