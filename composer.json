@@ -1,5 +1,5 @@
 {
-    "name": "lmedinam/laravel-pluralize",
+    "name": "circle-toolkit/laravel-pluralize",
     "description": "Clean way to write pluralize translations",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Lmedinam\\LaravelPluralize\\": "src/"
+            "CircleToolkit\\LaravelPluralize\\": "src/"
         },
         "files": [
             "src/helpers.php"
