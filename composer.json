@@ -1,5 +1,5 @@
 {
-    "name": "circle-toolkit/laravel-pluralize",
+    "name": "cirtool/laravel-pluralize",
     "description": "Clean way to write pluralize translations",
     "type": "library",
     "license": "MIT",
