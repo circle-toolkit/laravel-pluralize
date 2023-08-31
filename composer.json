@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CircleToolkit\\LaravelPluralize\\": "src/"
+            "Cirtool\\LaravelPluralize\\": "src/"
         },
         "files": [
             "src/helpers.php"

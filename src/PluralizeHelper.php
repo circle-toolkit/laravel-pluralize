@@ -1,6 +1,6 @@
 <?php
 
-namespace CircleToolkit\LaravelPluralize;
+namespace Cirtool\LaravelPluralize;
 
 use Exception;
 
